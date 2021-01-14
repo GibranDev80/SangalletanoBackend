@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/GibranDev80/SangalletanoBackend.git",
   "author": "gibran80dev <gibran80dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
